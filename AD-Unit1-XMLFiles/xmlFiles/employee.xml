@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <employee>
+        <firstName>Rakesh</firstName>
+        <lastName>Mishra</lastName>
+    </employee>
+    <employee>
+        <firstName>John</firstName>
+        <lastName>Davis</lastName>
+    </employee>
+    <employee>
+        <firstName>Rajesh</firstName>
+        <lastName>Sharma</lastName>
+    </employee>
+    <employee>
+        <firstName>Mary</firstName>
+        <lastName>Johnson</lastName>
+    </employee>
+    <employee>
+        <firstName>Mary</firstName>
+        <lastName>Johnson</lastName>
+        <address>
+            <street>Gran via</street>
+            <number>5</number>
+        </address>
+        <startDate>2016-08-16</startDate>
+    </employee>
+    <employee>
+        <firstName>Mary</firstName>
+        <lastName>Johnson</lastName>
+        <address>
+            <street>Gran via</street>
+            <number>5</number>
+        </address>
+        <startDate>2016-08-16</startDate>
+    </employee>
+    <employee>
+        <firstName>Mary</firstName>
+        <lastName>Johnson</lastName>
+        <address>
+            <street>Gran via</street>
+            <number>5</number>
+        </address>
+        <startDate>2016-08-16</startDate>
+    </employee>
+</employees>
